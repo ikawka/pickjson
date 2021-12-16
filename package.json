@@ -1,0 +1,16 @@
+{
+  "name": "pickjson",
+  "version": "0.0.1",
+  "description": "Pick values from a JSON string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "ikawka",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "yargs": "^17.3.0"
+  }
+}
