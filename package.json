@@ -2,7 +2,7 @@
   "name": "pluckjson",
   "version": "0.0.1",
   "description": "Pick values from a JSON string",
-  "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

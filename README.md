@@ -3,13 +3,13 @@
 ## Installation
 
 ```
-npm install -g pickjson
+npm install -g pluckjson
 ```
 
 ## Usage
 
 ```
-pickjson --key=hello.galaxy < test-file.json
+pluckjson --key=hello.galaxy < test-file.json
 ```
 
 ## Options
