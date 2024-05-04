@@ -5,6 +5,7 @@
   "engines": {
     "node": ">=18.13.0"
   },
+  "homepage": "https://github.com/ikawka/pluckjson#readme",
   "bin": "./dist/index.js",
   "scripts": {
     "build": "uglifyjs --compress --mangle --output ./dist/index.js -- index.js",
