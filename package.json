@@ -1,6 +1,6 @@
 {
   "name": "pluckjson",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Pick values from a JSON string",
   "engines": {
     "node": ">=18.13.0"
@@ -14,7 +14,11 @@
   "type": "module",
   "author": "ikawka",
   "license": "MIT",
-  "keywords": ["json", "pick", "search"],
+  "keywords": [
+    "json",
+    "pick",
+    "search"
+  ],
   "dependencies": {
     "clipboardy": "^4.0.0",
     "yargs": "^17.7.2"
