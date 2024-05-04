@@ -25,3 +25,10 @@ pluckjson --key=hello.galaxy < test-file.json
 ## 0.0.1
 
 - initial release
+
+## 0.1.0
+
+- Require node 18.13.0
+- Update dependencies
+- Add uglify-js for compression
+- Compress and move bin location to `dist` folder 
