@@ -1,6 +1,6 @@
 # pluckjson
 
-Pick values from a JSON string print the value on screen or copy to clipboard.
+Pick values from a JSON string and print the value on screen or copy to clipboard.
 
 ## Installation
 
