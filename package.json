@@ -1,6 +1,6 @@
 {
   "name": "pluckjson",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pick values from a JSON string",
   "engines": {
     "node": ">=18.13.0"
